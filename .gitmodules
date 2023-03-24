@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "JCRImpactFactor"]
+	path = JCRImpactFactor
+	url = https://github.com/cran/JCRImpactFactor
+	shallow = true
+	registered = true
+[submodule "wNNSel"]
+	path = wNNSel
+	url = https://github.com/cran/wNNSel
+	shallow = true
+	registered = true
